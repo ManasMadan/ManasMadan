@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasmadan&show_icons=true&locale=en" alt="manasmadan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasmadan&" alt="manasmadan" /></p>
+
+<p>Readme generated using [this](https://github.com/rahuldkjain/github-profile-readme-generator)</p>
