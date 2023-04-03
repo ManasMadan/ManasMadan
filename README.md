@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasmadan&" alt="manasmadan" /></p>
 
-- Readme generated using [this](https://github.com/rahuldkjain/github-profile-readme-generator)
+- Readme generated using [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
