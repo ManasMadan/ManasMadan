@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Madan</h1>
-<div style="text-align:center;">
+<div style="display:flex;justify-content:center;">
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manas-madan-5ab997244" target="_blank" style="display: flex;flex-direction: column;justify-content: center;padding: 7px;text-align: center;outline: none;width: 200px;height: 32px;border-radius: 16px;background-color: #0A66C2;font-family: &quot;SF Pro Text&quot;, Helvetica, sans-serif;text-decoration: none !important;color: #ffffff !important;">Follow on LinkedIn</a>
 </div>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
