@@ -2,11 +2,7 @@
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manas-madan" target="_blank" style="display: flex;flex-direction: column;justify-content: center;padding: 7px;text-align: center;outline: none;width: 200px;height: 32px;border-radius: 16px;background-color: #0A66C2;font-family: &quot;SF Pro Text&quot;, Helvetica, sans-serif;text-decoration: none !important;color: #ffffff !important;">Follow on LinkedIn</a>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-- 🔭 I’m currently working on **[File Share](https://github.com/ManasMadan/FileShare)**
-
 - 🌱 I’m currently learning **Qwik, C++ ,DSA**
-
-- 👯 I’m looking to collaborate on **[File Share](https://github.com/ManasMadan/FileShare)**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/ManasMadan)
 
